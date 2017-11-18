@@ -1,0 +1,87 @@
+body {
+	background-image: url("../images/pinkdust.png");
+}
+
+h1 {
+	width: 300px;
+	padding: 20px 5px;
+	margin: 10px;
+	background-color: #DE6170;
+	color: white;
+	font-weight: bolder;
+	font-size: 32px;
+	font-family: 'Comic Sans', Arial, serif;
+}
+
+#instructions {
+	width: 440px;
+	padding: 15px 5px;
+	margin: 10px;
+	background-color: #F9F7F3;
+	font-size: 16px;
+	font-family: Georgia,'Times New Roman', sans-serif;
+}
+
+#computerNbr {
+	width: 250px;
+	padding: 15px 5px 30px 5px;
+	margin: 10px;
+	background-color: #EBA578;
+	font-size: 20px;
+	font-family: Georgia,'Times New Roman', sans-serif;
+}
+
+#score {
+	width: 80px;
+	padding: 20px 5px 5px 5px;
+	margin: 10px;
+	background-color: #CFADC2;
+	font-size: 14px;
+	font-family: Georgia,'Times New Roman', sans-serif;
+}
+
+#image-row {
+	margin: 10px;
+}
+
+button {
+	border: 1px solid #ddd;
+	border-radius: 4px;
+	padding: 43px;
+}
+
+#blue {
+	background-image: url("../images/blue.jpg");
+}
+
+#green {
+	background-image: url("../images/green.jpg");
+}
+
+#red {
+	background-image: url("../images/red.jpg");
+}
+
+#yellow {
+	background-image: url("../images/yellow.jpg");
+}
+
+#score-is {
+	width: 250px;
+	padding: 5px 5px 5px 5px;
+	margin: 10px;
+	background-color: #DE6170;
+	font-size: 12px;
+	font-family: Georgia, 'Times New Roman', sans-serif;
+	color: white;
+}
+
+#total-score {
+	width: 250px;
+	padding: 20px 5px 30px 5px;
+	margin: 10px;
+	background-color: #DE6170;
+	font-size: 20px;
+	font-family: Georgia, 'Times New Roman', sans-serif;
+	color: white;
+}
